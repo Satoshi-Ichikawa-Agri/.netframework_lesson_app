@@ -1,0 +1,17 @@
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\CsvImport.exe.config
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\CsvImport.exe
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\CsvImport.pdb
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\CsvHelper.dll
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\EntityFramework.dll
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\CsvHelper.xml
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\EntityFramework.xml
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\daiko\source\AddressBookApp\CsvImport\bin\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\daiko\source\AddressBookApp\CsvImport\obj\Debug\CsvImport.csproj.AssemblyReference.cache
+C:\Users\daiko\source\AddressBookApp\CsvImport\obj\Debug\CsvImport.csproj.SuggestedBindingRedirects.cache
+C:\Users\daiko\source\AddressBookApp\CsvImport\obj\Debug\CsvImport.csproj.CoreCompileInputs.cache
+C:\Users\daiko\source\AddressBookApp\CsvImport\obj\Debug\CsvImport.csproj.CopyComplete
+C:\Users\daiko\source\AddressBookApp\CsvImport\obj\Debug\CsvImport.exe
+C:\Users\daiko\source\AddressBookApp\CsvImport\obj\Debug\CsvImport.pdb

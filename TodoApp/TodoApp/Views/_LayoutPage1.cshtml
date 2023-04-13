@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        @if (Request.IsAuthenticated) 
+        {
+            @Html.ActionLink("ログアウト", "SighOut", new { controller = "Login"})
+
+            if (User.IsInRole("Administrators"))
+            {
+                <span>|</span>
+                @Html.ActionLink("ユーザ管理", "Index", new { controller = "Users" });
+            }
+        }
+    </div>
+    <div class="container">
+        @RenderBody()
+    </div>
+</body>
+</html>
